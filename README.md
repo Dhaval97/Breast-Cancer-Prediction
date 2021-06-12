@@ -19,3 +19,20 @@ Breast Cancer Prediction using Machine Learning with GUI
   * Random Forest is a machine learning algorithm that operates by constructing multiple decision trees.
   * The final decision is made based on the majority of the trees and is chosen by the random forest.
   * A decision tree is a tree-shaped diagram used to determine a course of action. Each branch of the tree represents a possible decision, occurrence, or reaction.
+
+### Screenshots
+* Initial Launch
+
+![image](https://user-images.githubusercontent.com/34769135/121785798-85ea5200-cbd9-11eb-978b-92fd84686e62.png)
+
+* Submitting without Entering Values
+
+![image](https://user-images.githubusercontent.com/34769135/121785847-d5308280-cbd9-11eb-838e-d06474b97222.png)
+
+* Predicting Values - Case I
+
+![image](https://user-images.githubusercontent.com/34769135/121785911-42dcae80-cbda-11eb-9e69-b85cdcb4b267.png)
+
+* Predicting Values - Case II
+
+![image](https://user-images.githubusercontent.com/34769135/121785984-c0a0ba00-cbda-11eb-9d57-00ed6399d5f2.png)
